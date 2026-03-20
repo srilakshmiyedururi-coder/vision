@@ -13,7 +13,7 @@ Technologies Used
 **PyInstaller**: Used to convert the Python script into a standalone executable file.
 ## 🖥️ Application InterfaceS
 ![Gesture Control GUI](gui_screenshot.png)
-![gui_screenshot](https://github.com/user-attachments/assets/65e253a0-dd9b-4800-86c1-e763ab3effc4)
+<img width="423" height="323" alt="gui_screenshot" src="https://github.com/user-attachments/assets/7dadde03-7580-485e-b368-7811323c3a3b" />
 <video src="https://github.com/user-attachments/assets/08f32c79-2634-48c4-9109-962a29d2decf" width="600" controls></video>
 ** Usage Instructions**
 To interact with the system, follow these simple gestures:
